@@ -1,12 +1,28 @@
-## Alô! Tudo bem?👋
+### Alô! Tudo bem? Sinta-se em casa! 🚀
 
-<div>
+<div id="icons">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+
+<div id="cards_status">
   <a href="https://github.com/cjramos-shift">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusG-Ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusG-Ribeiro&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjramos-shift&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjramos-shift&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
 
+
+<div id="links">
+  <a hfre="https://www.linkedin.com/in/cláudio-ramos-516611182/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href = "mailto:ccjjccrr@yahoo.com"><img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+</div>
+  
 <!--
 **cjramos-shift/cjramos-shift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
