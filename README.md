@@ -1,4 +1,11 @@
-### Hi there 👋
+## Alô! Tudo bem?👋
+
+<div>
+  <a href="https://github.com/cjramos-shift">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusG-Ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusG-Ribeiro&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
 
 <!--
 **cjramos-shift/cjramos-shift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
