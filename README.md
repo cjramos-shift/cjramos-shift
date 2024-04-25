@@ -30,10 +30,10 @@
 ## Contact
 
 <div id="links">
-  <a href = "mailto:ccjjccrr@yahoo.com">
+  <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/claudiojcramos">
+  <a href="https://www.linkedin.com/in/claudiojcramos"  target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </div>
