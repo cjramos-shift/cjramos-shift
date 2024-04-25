@@ -1,5 +1,5 @@
 <!-- # Welcome! -->
-<h3 class="pb-2">Welcome!</h3>
+<h3 class="pt-1">Welcome!</h3>
 <hr>
 <!-- <div id="icons">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
 </div>
 
 <!-- ## Skill Tree -->
-<h3 class="py-2">Skill Tree</h3>
+<h3 class="pt-1">Skill Tree</h3>
 <hr>
 <div id="icons">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
 </div>
 
 <!-- ## Contact -->
-<h3 class="py-2">Contact</h3>
+<h3 class="pt-1">Contact</h3>
 <hr>
 <div id="links">
   <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
