@@ -17,7 +17,7 @@
 </div>
 
 <!-- ## Skill Tree -->
-<h3>Skill Tree</h3>
+<h3 class="py-2">Skill Tree</h3>
 
 <div id="icons">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
 </div>
 
 <!-- ## Contact -->
-<h3>Contact</h3>
+<h3 class="py-2">Contact</h3>
 
 <div id="links">
   <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
