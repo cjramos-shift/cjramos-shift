@@ -1,6 +1,6 @@
 <!-- # Welcome! -->
 <h3 class="pb-2">Welcome!</h3>
-
+<hr>
 <!-- <div id="icons">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <!-- ## Skill Tree -->
 <h3 class="py-2">Skill Tree</h3>
-
+<hr>
 <div id="icons">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,7 +32,7 @@
 
 <!-- ## Contact -->
 <h3 class="py-2">Contact</h3>
-
+<hr>
 <div id="links">
   <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white">
