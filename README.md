@@ -1,4 +1,4 @@
-# Welcome!
+<!-- # Welcome! -->
 <h1>Welcome!</h1>
 
 <!-- <div id="icons">
@@ -16,7 +16,8 @@
   </a>
 </div>
 
-## Skill Tree
+<!-- ## Skill Tree -->
+<h2>Skill Tree</h2>
 
 <div id="icons">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +30,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
 
-## Contact
+<!-- ## Contact -->
+<h2>Contact</h2>
 
 <div id="links">
   <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
