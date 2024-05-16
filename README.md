@@ -11,7 +11,7 @@
 
 <div id="cards_status">
   <a href="https://github.com/cjramos-shift">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjramos-shift&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjramos-shift&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjramos-shift&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
