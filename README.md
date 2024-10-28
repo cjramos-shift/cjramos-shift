@@ -34,7 +34,7 @@
 <!-- <h3 class="pt-1">Contact</h3>
 <hr>-->
 <div id="links">
-  <a href = "mailto:ccjjccrr@yahoo.com" target="_blank">
+  <a href = "mailto:cjramos96@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/claudiojcramos"  target="_blank">
