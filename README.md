@@ -1,4 +1,9 @@
 # Bem vindo! 🚀
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/claudiojcramos/)
+ [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:cjramos96@protonmail.com)
+
 <!--<h3 class="pt-1">Welcome!</h3>
 <hr>-->
 <!-- <div id="icons">
@@ -28,18 +33,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-</div>
-
-## Contact 
-<!-- <h3 class="pt-1">Contact</h3>
-<hr>-->
-<div id="links">
-  <a href = "mailto:cjramos96@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E--mail-%2338bdae?style=for-the-badge&logo=email&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/claudiojcramos"  target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
 </div>
   
 <!--
