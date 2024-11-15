@@ -1,7 +1,7 @@
 # Bem vindo! 🚀
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/claudiojcramos/)
- [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+ [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:cjramos96@protonmail.com)
 
 <!--<h3 class="pt-1">Welcome!</h3>
