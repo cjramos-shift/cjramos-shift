@@ -1,14 +1,14 @@
 # Bem vindo! 🚀
 
-- 🔭 Meu nome é Cláudio e, sou apaixonado por tecnologia e programação;
-- 🌱 Trabalho como desenvolvedor full stack;
-- 👯 Atualmente, trabalho como desenvolvedor em uma empresa de saúde, porém também estou atuando em projetos externos que serão;
-- ✨ Esses projetos serão utilizados comercialmente, portanto, assim que o deploy em produção for concluído, divulgarei tanto no meu LinkedIn, quanto por aqui;
-
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/claudiojcramos/)
  [![General badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:cjramos96@protonmail.com)
+
+- 🔭 Meu nome é Cláudio e, sou apaixonado por tecnologia e programação;
+- 🌱 Trabalho como desenvolvedor full stack;
+- 👯 Atualmente, trabalho como desenvolvedor em uma empresa de saúde, porém também estou atuando em projetos externos que serão;
+- ✨ Esses projetos serão utilizados comercialmente, portanto, assim que o deploy em produção for concluído, divulgarei tanto no meu LinkedIn, quanto por aqui;
 
 <!--<h3 class="pt-1">Welcome!</h3>
 <hr>-->
