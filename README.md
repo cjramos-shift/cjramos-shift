@@ -21,19 +21,19 @@
   </a>
 </div>
 
-## Tech Skill Tree
+## 🛠️ Tech Skill Tree
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![C#](https://img.shields.io/badge/C%23-239120-333333?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-5C2D91-FFFFFF?style=flat&logo=.net)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927-333333?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1-333333?style=flat&logo=mysql)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000-333333?style=flat&logo=oracle)
