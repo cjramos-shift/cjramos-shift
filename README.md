@@ -1,6 +1,5 @@
 # Bem vindo! 🚀
 
-## 🧑‍💻 About me
 - 🔭 Meu nome é Cláudio, e sou apaixonado por tecnologia e programação;
 - 🌱 Trabalho com desenvolvimento full stack;
 - 👯 Atualmente, trabalho como desenvolvedor em uma empresa de saúde, porém também estou atuando em projetos externos que serão;
