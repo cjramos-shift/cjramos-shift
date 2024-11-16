@@ -35,8 +35,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1-333333?style=flat&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000-333333?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
 
 <!--<div id="icons">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
