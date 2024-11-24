@@ -20,11 +20,10 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div> -->
 
-<div id="cards_status">
-  <a href="https://github.com/cjramos-shift">
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjramos-shift&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjramos-shift&layout=compact&langs_count=6&theme=radical"/>
-  </a>
+<div id="cards_status" align="center">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjramos-shift&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjramos-shift&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=cjramos-shift&theme=radical&hide_border=false&background=FFFFFF00"/>
 </div>
 
 ## 🛠️ Tech Skill Tree
