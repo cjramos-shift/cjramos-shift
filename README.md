@@ -7,7 +7,7 @@
 
 - 🔭 Meu nome é Cláudio e, sou apaixonado por tecnologia e programação;
 - 🌱 Trabalho como desenvolvedor full stack;
-- 👯 Atualmente, trabalho como desenvolvedor em uma empresa de tecnologia e inovação tributária, porém também estou atuando em projetos externos;
+- 👯 Atualmente, trabalho como desenvolvedor em uma empresa de tecnologia e inovação tributária;
 - ✨ Esses projetos serão utilizados comercialmente, portanto, assim que o deploy em produção for concluído, divulgarei tanto no meu LinkedIn, quanto por aqui;
 
 <!--<h3 class="pt-1">Welcome!</h3>
